@@ -1,5 +1,7 @@
 # Raccoon Tycoons - App Challenge Code Repository
 
+Project Name: Urbantario
+
 Urbantario Website Link: https://www.vinn03.dev/urbantario
 
 Urbantario Experience App: https://experience.arcgis.com/experience/10a4405ff6a94cc8b87dffc3c01c0d45/
