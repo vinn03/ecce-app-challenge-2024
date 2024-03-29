@@ -1,26 +1,28 @@
+
 .title-box {
   transform: rotate(-6deg);
-  width: 42vw;
-  height: 90vh;
+  width: 40vw;
+  height: 60vh;
   border-radius: 50px;
 
   margin-top: 10vh;
+  padding: 4vw;
 
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
 
-  font-size: 6vw;
+  font-size: 4vw;
 }
 
 .info-box {
   transform: rotate(6deg);
-  width: 42vw;
-  height: 90vh;
+  width: 40vw;
+  height: 80vh;
   border-radius: 50px;
 
-  padding: 2vw;
+  padding: 4vw;
   margin-top: 10vh;
 
   display: flex;
@@ -29,4 +31,11 @@
   text-align: center;
 
   font-size: 2vw;
+}
+
+.more-info {
+  width: 90%;
+  border-radius: 50px;
+  padding: 4vw;
+  font-size: 1.5vw;
 }
