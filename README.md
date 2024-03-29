@@ -1,4 +1,4 @@
-# Raccon Tycoons - App Challenge Code Repository
+# Raccoon Tycoons - App Challenge Code Repository
 
 Website Link: https://www.vinn03.dev/urbantario <br/><br/>
 
