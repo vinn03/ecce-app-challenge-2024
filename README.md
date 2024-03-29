@@ -8,11 +8,11 @@ How to navigate the web page:<br/>
   - "Teams" takes you to the bottom of the page, where the contributors are listed.<br/>
   - "Experience" takes you to the ArcGIS Experience App associated with the project, and opens a new window when clicked on.<br/>
   
-- To interact with the embedded maps:
-  - Click on the +/- buttons to zoom in/out of the map.
-  - Click ont he home button to zoom back to the default extent of the map.
-  - To view/hide the legend, click on the "toggle" button above the zoom buttons, denoted by two parallel arrows.
-  - To view/hide certain map layers, check/uncheck the checkboxes associated with each layer in the legend.
+- To interact with the embedded maps:<br/>
+  - Click on the +/- buttons to zoom in/out of the map.<br/>
+  - Click ont he home button to zoom back to the default extent of the map.<br/>
+  - To view/hide the legend, click on the "toggle" button above the zoom buttons, denoted by two parallel arrows.<br/>
+  - To view/hide certain map layers, check/uncheck the checkboxes associated with each layer in the legend.<br/><br/>
 
 Goals of the app:<br/>
 - To give users an understanding of urbanization at a basic level.<br/>
