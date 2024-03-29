@@ -13,7 +13,7 @@ export default function Growth() {
                 </p>
             </div>
         </div>
-        <div className="more-info bg-powder mt-20 m-auto">
+        <div className="more-info bg-powder m-auto">
             In particular, urbanization leads to increased <span className="font-bold">traffic density</span>, resulting in congestion and longer commute times, which also contributes to <span className="font-bold">environmental pollution</span>. 
             <br></br>
             Additionally, urbanization leads to <span className="font-bold">habitat loss</span>, as natural areas are converted into buildings and infrastructure, negatively impacting wildlife and biodiversity. 
