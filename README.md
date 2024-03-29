@@ -29,7 +29,7 @@ How to run this web page locally on your machine (instead of visiting the websit
 - By default, the web page is accessible through the following URL: localhost:4173, in your browser.<br/><br/>
   
 References:
-<br/><br/>
+<br/>
 
 https://pixabay.com/photos/city-transit-streetcar-toronto-4490237/ - Toronto Streetcar Image<br/>
 https://www.britannica.com/topic/urbanization - Urbanization Definition<br/>
