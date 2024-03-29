@@ -1,6 +1,6 @@
 # Raccoon Tycoons - App Challenge Code Repository
 
-Website Link: https://www.vinn03.dev/urbantario <br/><br/>
+Website Link: https://www.vinn03.dev/urbantario
 
 How to navigate the web page:<br/>
 - The header at the top contains navigational elements.<br/>
