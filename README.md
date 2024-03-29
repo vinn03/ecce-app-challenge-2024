@@ -1,7 +1,7 @@
 # Raccoon Tycoons - App Challenge Code Repository
 
 Website Link: https://www.vinn03.dev/urbantario
-Experience App: https://experience.arcgis.com/experience/10a4405ff6a94cc8b87dffc3c01c0d45/
+Urbantario Experience App: https://experience.arcgis.com/experience/10a4405ff6a94cc8b87dffc3c01c0d45/
 
 How to navigate the web page:
 - The header at the top contains navigational elements.
@@ -31,7 +31,6 @@ How to run this web page locally on your machine (instead of visiting the websit
 - By default, the web page is accessible through the following URL: localhost:4173, in your browser.
   
 References:
-
 
 https://pixabay.com/photos/city-transit-streetcar-toronto-4490237/ - Toronto Streetcar Image
 https://www.britannica.com/topic/urbanization - Urbanization Definition
