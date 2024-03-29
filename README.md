@@ -33,6 +33,11 @@ Goals of the app:
 - To describe how urbanization can be harmful, especially to the environment.
 - To provide visual insight towards the threat of urbanization towards protected nature areas within the Greater Toronto Area.
 - To give insight towards potential solutions to the negative effects of urbanization.
+- Users can learn about Ontario’s Greenbelt and which currently protected areas are susceptible to future development.
+- Data for the greenbelt include the regional categories, towns and villages, hamlets (undeveloped settlements), riverways, specialty crops, and parks (provincial and municipal). 
+- Data showing urban growth from 1971 to 2020 that are categorized as established areas (population of at least 500 residents).
+- Users can overlap the data layers to see the extent of the urban areas and possible encroachment onto the Greenbelt.
+
 
 How to run this web page locally on your machine (instead of visiting the website link above):
 - Download the contents of this directory as a .zip file.
