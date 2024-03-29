@@ -25,7 +25,7 @@ How to run this web page locally on your machine (instead of visiting the websit
 - Download the contents of this directory as a .zip file.
 - Install Node.js: https://nodejs.org/en/learn/getting-started/how-to-install-nodejs
 - After you extract the contents into a folder, navgiate to the ecce-app folder and open a new terminal instance at said folder.
-  - Execute the following command: "npm install" once the terminal is open.
+  - Execute the following command: "npm install", once the terminal is open.
 - After the dependencies are installed, execute the following command: "npm run dev", to run to instance of the web page locally.
 - By default, the web page is accessible through the following URL: localhost:4173, in your browser.
   
