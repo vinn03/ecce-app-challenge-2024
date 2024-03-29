@@ -2,6 +2,18 @@
 
 Website Link: https://www.vinn03.dev/urbantario <br/><br/>
 
+How to navigate the web page:<br/>
+- The header at the top contains navigational elements.<br/>
+  - "Home" takes you back to the top of the page.<br/>
+  - "Teams" takes you to the bottom of the page, where the contributors are listed.<br/>
+  - "Experience" takes you to the ArcGIS Experience App associated with the project, and opens a new window when clicked on.<br/><br/>
+  
+- To interact with the embedded maps:
+  - Click on the +/- buttons to zoom in/out of the map.
+  - Click ont he home button to zoom back to the default extent of the map.
+  - To view/hide the legend, click on the "toggle" button above the zoom buttons, denoted by two parallel arrows.
+  - To view/hide certain map layers, check/uncheck the checkboxes associated with each layer in the legend.
+
 Goals of the app:<br/>
 - To give users an understanding of urbanization at a basic level.<br/>
 - To provide visual insight towards the spread of urbanization in Canada, using the Greater Toronto Area as an example.<br/>
