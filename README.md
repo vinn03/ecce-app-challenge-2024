@@ -6,7 +6,7 @@ How to navigate the web page:<br/>
 - The header at the top contains navigational elements.<br/>
   - "Home" takes you back to the top of the page.<br/>
   - "Teams" takes you to the bottom of the page, where the contributors are listed.<br/>
-  - "Experience" takes you to the ArcGIS Experience App associated with the project, and opens a new window when clicked on.<br/><br/>
+  - "Experience" takes you to the ArcGIS Experience App associated with the project, and opens a new window when clicked on.<br/>
   
 - To interact with the embedded maps:
   - Click on the +/- buttons to zoom in/out of the map.
