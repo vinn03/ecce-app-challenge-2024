@@ -20,7 +20,7 @@ Goals of the app:
 - To give users an understanding of urbanization at a basic level.
 - To provide visual insight towards the spread of urbanization in Canada, using the Greater Toronto Area as an example.
 - To describe how urbanization can be harmful, especially to the environment.
-- To provdie visual insight towards the threat of urbanization towards protected nature areas within the Greater Toronto Area.
+- To provide visual insight towards the threat of urbanization towards protected nature areas within the Greater Toronto Area.
 - To give insight towards potential solutions to the negative effects of urbanization.
 
 How to run this web page locally on your machine (instead of visiting the website link above):
