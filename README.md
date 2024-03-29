@@ -1,7 +1,8 @@
 # ecce-app-2024
 
 
-References: 
+References:
+
 https://pixabay.com/photos/city-transit-streetcar-toronto-4490237/ - Toronto Streetcar Image
 https://www.britannica.com/topic/urbanization - Urbanization Definition
 https://www.fs.usda.gov/research/treesearch/60941 - Urbanization Effects
