@@ -3,7 +3,7 @@ import "../App.css"
 export default function Growth() {
     return (
         <>
-        <div className="flex flex-row items-center justify-around w-full h-half mt-20">
+        <div className="flex flex-row items-center justify-around w-full h-half">
             <div className="title-box font-inter font-bold bg-delft">
                 <p className="collapse-text">Isn't it good that our cities are growing?</p>
             </div>
