@@ -17,6 +17,15 @@ How to navigate the web page:
   - Click ont he home button to zoom back to the default extent of the map.
   - To view/hide the legend, click on the "toggle" button above the zoom buttons, denoted by two parallel arrows.
   - To view/hide certain map layers, check/uncheck the checkboxes associated with each layer in the legend.
+ 
+How to use the ArcGIS Experience app:
+- Upon opening the Experience Builder, users encounter a splash screen with a brief introduction explaining the app's purpose and directing them to click the info icon on the main page for further details. The splash screen can be closed by pressing OK in the bottom right corner.
+- After closing the splash screen, users are presented with the main map displaying census metropolitan areas (urban settlements) from 1971 and 2020. Various icons such as 'Map Layers', 'Legend', 'Search', and 'Home' are available on the map.
+- The 'Map Layers' button allows users to toggle urban area layers and Greenbelt-related layers such as regions, towns, parks, crops, and riverways. These layers are not initially visible but can be activated using this widget.
+- The 'Legend' button displays the current layers on the map. Users can search for addresses using the 'Search' button (magnifying glass), located alongside the other buttons in the top left corner.
+- Zoom keys and a 'Home' button for returning to the original map scale are located in the bottom right corner of the map.
+- The left side of the screen features an info icon and an arrow to open a sidebar containing instructions on app usage and a summary of urbanization.
+- In the top right corner of the screen, there is an embedded link to the app's website.
 
 Goals of the app:
 - To give users an understanding of urbanization at a basic level.
